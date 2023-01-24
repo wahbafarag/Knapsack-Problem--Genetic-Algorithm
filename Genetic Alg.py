@@ -1,18 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov  2 14:59:06 2022
-
-@author: S.A
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 29 20:25:16 2022
-
-@author: Farag
-"""
-
-
 import numpy as np 
 import random as rand
 class Ga : 
